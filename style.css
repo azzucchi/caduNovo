@@ -1,0 +1,94 @@
+.desk-ap-icadu,
+.desk-ap-icadu * {
+  box-sizing: border-box;
+}
+.desk-ap-icadu {
+  background: #ffffff;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.rodape {
+  background: #0c05d1;
+  border-radius: 0px 0px 35px 35px;
+  flex-shrink: 0;
+  width: 1920px;
+  height: 150px;
+  position: absolute;
+  left: 0px;
+  top: 930px;
+  overflow: hidden;
+}
+.logo {
+  background: #0c05d1;
+  border-radius: 35px 0px 0px 0px;
+  flex-shrink: 0;
+  width: 400px;
+  height: 250px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.friend-3077835-1280-1 {
+  width: 251.65px;
+  height: 220px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  object-fit: cover;
+}
+.lista-cadu {
+  background: #0c05d1;
+  flex-shrink: 0;
+  width: 400px;
+  height: 680px;
+  position: absolute;
+  left: 0px;
+  top: 250px;
+  overflow: hidden;
+}
+.cabecalho {
+  flex-shrink: 0;
+  width: 1170px;
+  height: 250px;
+  position: absolute;
+  left: 400px;
+  top: 0px;
+  overflow: hidden;
+}
+.resumo-dados {
+  border-radius: 0px 35px 0px 0px;
+  flex-shrink: 0;
+  width: 350px;
+  height: 450px;
+  position: absolute;
+  left: 1570px;
+  top: 0px;
+  overflow: hidden;
+}
+.opcoes {
+  flex-shrink: 0;
+  width: 350px;
+  height: 480px;
+  position: absolute;
+  left: 1570px;
+  top: 450px;
+  overflow: hidden;
+}
+.corpo {
+  flex-shrink: 0;
+  width: 1170px;
+  height: 680px;
+  position: absolute;
+  left: 400px;
+  top: 250px;
+  overflow: hidden;
+}
